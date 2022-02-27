@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MFSaldajevs
+- 👋 Hi, I’m @MFSaldajevs.
 - 👀 I’m interested in Data Analytics, Logic and Algorithms.
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on analytics projects.
 - 📫 How to reach me : maksimsf.saldajevs@gmail.com
 
